@@ -1,5 +1,5 @@
 gunicorn
-django - heroku
+django-heroku
 black
 flake8
 coverage
